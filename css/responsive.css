@@ -1,0 +1,317 @@
+   /* Responsive code start */
+/* low resulation mobile phone--glaxy fold */
+
+@media (min-width: 279px) and (max-width: 319px){
+
+    .header-section .navbar-brand .img-fluid {
+        width: 70%;
+    }
+    .header-section .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        margin: 10px 0px 0px 0px;
+        font-size: 12px;
+        font-weight: 500;
+    }
+    .banner-section h1 {
+        font-size: 25px;
+        line-height: 36px;
+        letter-spacing: 0px;
+    }
+    .banner-section {
+        padding: 85px 0px 60px;
+    }
+    .banner-section .arrow {
+        padding: 100px 0px 0px;
+    }
+    .banner-section .arrow a i {
+        font-size: 30px;
+    }
+    .who-we-are {
+        padding: 30px 0px 40px;
+    }
+    .title h2 {
+        font-size: 26px;
+        letter-spacing: 1px;
+        padding: 15px 0px;
+    }
+    .who-we-are .title {
+        padding:0px 0px 10px;
+    }
+    .who-we-are p {
+        font-size: 12px;
+    }
+    .we-do {
+        padding: 30px 0px 60px;
+    }
+    .we-do .title {
+        width: 100%;
+        padding: 0px 0px 35px;
+    }
+    .inner-image {
+        margin: 0px 0px 15px 0px;
+    }
+    .inner-wedo h4 {
+        font-size: 20px;
+    }
+    .our-attorney {
+        padding: 30px 0px 60px;
+    }
+    .our-attorney .title {
+        width: 100%;
+        padding: 30px 0px 20px;
+    }
+    .our-attorney .title h2 {
+        font-size: 26px;
+        letter-spacing: 2px;
+    }
+    .our-attorney .at-text {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .our-attorney .btn-link {
+        font-size: 12px;
+    }
+    .our-attorney .inner-attorney h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .langueges-section {
+        padding: 30px 0px 50px;
+    }
+    .langueges-section .inner-box h4 {
+        font-size: 20px;
+    }
+    .langueges-section .inner-box p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .inner-box {
+        padding: 0px 2px 0px;
+        margin: 0px 0px 15px 0px;
+    }
+    .contactSection {
+        padding: 30px 0px 60px;
+    }
+    .contactSection .title h2 {
+        font-size: 26px;
+    }
+    .contactSection .title {
+        padding: 0px 0px 30px;
+    }
+    .contact-form input::placeholder{
+        color: #fff !important;
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .contact-form textarea::placeholder{
+        color: #fff !important;
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .contact-form .btn-primary {
+        font-size: 12px;
+        padding: 10px 55px;
+    }
+    .form-control {
+        margin-bottom: 30px;
+    }
+    .footer p {
+        font-size: 12px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .social-icon {
+        font-size: 16px;
+        text-align: center;
+        margin: 0px;
+        padding: 0px;
+    }
+}
+/* most of the smartphone devices */
+@media (min-width: 320px) and (max-width: 480px){
+    .header-section .navbar-brand .img-fluid {
+        width: 85%;
+    }
+    .header-section .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        margin: 10px 0px 0px 0px;
+    }
+    .banner-section h1 {
+        font-size: 35px;
+        line-height: 45px;
+        letter-spacing: 1px;
+    }
+    .who-we-are {
+        padding: 40px 0px 60px;
+    }
+    .who-we-are .title {
+        padding: 10px 0px 10px;
+    }
+    .inner-image {
+        margin: 0px 0px 20px 0px;
+    }
+    .title h2 {
+        font-size: 35px;
+        letter-spacing: 1px;
+    }
+    .we-do {
+        padding: 50px 0px 80px;
+    }
+    .we-do .title {
+        padding: 0px 0px 60px;
+    }
+    .our-attorney {
+        padding: 30px 0px 100px;
+    }
+    .our-attorney .title {
+        padding: 60px 0px 20px;
+    }
+    .our-attorney .title h2 {
+        font-size: 35px;
+    }
+    .langueges-section {
+        padding: 50px 0px 70px;
+    }
+    .inner-box {
+        text-align: justify;
+        margin: 0px 0px 20px 0px;
+    }
+    .contactSection {
+        padding: 60px 0px;
+    }
+    .contactSection .title h2 {
+        font-size: 35px;
+        letter-spacing: 1px;
+    }
+    .footer {
+        text-align-last: center;
+    }
+    .footer p {
+        margin: 0px 0px 10px 0px;
+    }
+    .social-icon {
+        margin: 0px;
+        padding: 0px;
+    }
+}
+/* mobile phone and low resulation tablet */
+@media (min-width: 481px) and (max-width: 767px){
+    .header-section .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        margin: 15px 0px 0px 0px;
+        font-size: 16px;
+    }
+    .header-section .navbar-brand .img-fluid {
+        width: 85%;
+    }
+    .banner-section h1 {
+        font-size: 42px;
+        line-height: 52px;
+        letter-spacing: 1px;
+    }
+    .who-we-are {
+        width: 100%;
+        padding: 40px 0px 70px;
+    }
+    .who-we-are .title {
+        width: 100%;
+        padding: 20px 0px 10px;
+    }
+    .title h2 {
+        letter-spacing: 1px;
+    }
+    .who-we-are p {
+        font-size: 12px;
+        line-height: 22px;
+        text-align: justify;
+    }
+    .left-img .img-fluid {
+        width: 100%;
+    }
+    .we-do {
+        padding: 40px 0px 80px;;
+    }
+    .we-do .title {
+        width: 100%;
+        padding: 0px 0px 60px;
+    }
+    .inner-image {
+        margin-bottom: 20px;
+    }
+    .our-attorney {
+        padding: 80px 0px 100px;
+    }
+    .our-attorney .title {
+        padding: 40px 0px 20px;
+    }
+    .langueges-section {
+        padding: 50px 0px;
+    }
+    .inner-box {
+        padding: 0px 30px 0px;
+        margin-bottom: 20px;
+    }
+    .langueges-section .inner-box p {
+        text-align: justify;
+    }
+    .contactSection {
+        padding: 40px 0px 90px;
+    }
+    .footer {
+        text-align-last: center;
+    }
+    .social-icon {
+        margin: 10px 0px 0px 0px;
+        padding: 0px;
+    }
+}
+  /* tablet, notebook ipad-air */
+  @media (min-width: 768px) and (max-width: 1024px){
+    .header-section .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        margin: 15px 0px 0px 0px;
+        font-size: 16px;
+    }
+    .who-we-are {
+        padding: 80px 0px 120px;
+    }
+    .who-we-are .title {
+        padding: 0px 0px 10px;
+    }
+    .left-img {
+        margin: 60px 0px 0px;
+    }
+    .who-we-are p {
+        text-align: justify;
+    }
+
+    .we-do {
+        padding: 60px 0px 100px;
+    }
+    .we-do .title {
+        width: 100%;
+        padding: 0px 0px 90px;
+    }
+    .we-do .inner-image {
+        width: 100%;
+        position: relative;
+        margin: 0px 0px 30px 0px;
+    }
+    .our-attorney .at-text {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .our-attorney .title {
+        padding: 50px 0px 20px;
+    }
+    .inner-box {
+        padding: 0px 30px 0px;
+        margin-bottom: 20px;
+        text-align: justify;
+    }
+    .contactSection {
+        width: 100%;
+        padding: 60px 0px 90px;
+        background: #28377e;
+    }
+  }
